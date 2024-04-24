@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const Color dark1 = Color(0xFF141716);
-  static const Color dark2 = Color(0xFF161918);
-  static const Color grey1 = Color(0xFF4F5351);
-  static const Color grey2 = Color(0xFFB0B4B3);
+  static const Color chatMenu = Color(0xFF1B1C21);
+  static const Color textField = Color(0xFF16171E);
+  static const Color background= Color(0xFF20222C);
+  static const Color contactName = Color(0xFF858897);
+  static const Color lastMessage = Color(0xFF626573);
 }
